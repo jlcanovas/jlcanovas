@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Javier Cánovas, professor and researcher on software/web engineering and collaborative development.
+
+- 🔭 I’m currently working at [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu/)
+- 🌱 I’m currently learning how people deploy governance models in their projects
+- 💬 Ask me about model-driven engineering, language development, Web APIs and open source analysis
+- 📫 How to reach me: [jlcanovas.es](https://t.co/EB6dBMb4mQ?amp=1)
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: I've lived in 6 different cities
+
 <!--
 **jlcanovas/jlcanovas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
